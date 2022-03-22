@@ -12,7 +12,7 @@
 	
 	"Resolution": "Unresolved",
 	
-	"Environment": "Samsung Galaxy A50 SM-A505F Android 11, Mobile app ver. 21.2.2"
+	"Environment": "Samsung Galaxy A50 SM-A505F Android 11, Mobile app ver. 21.2.2",
 	
 	"Description": [
 		
@@ -32,15 +32,15 @@
   
 			"Steps": [
 	
-				"1. Click on the "Recipes" button",
+				"1. Click on the 'Recipes' button",
 		
 				"2. Double-click on the any Recipe image",
 			
-				"3. Click on the "<" button",
+				"3. Click on the '<' button",
 		
 				"4. Double-click on the Next Recipe image",
 		
-				"5. Click on the "<" button",
+				"5. Click on the '<' button"
 		
 			]
 	
@@ -60,7 +60,7 @@
 
 	],
   
-	"Attachments": {img},
+	"Attachments": {"img": "bug_1.png"},
   
 	"Reporter": "Igor Karabach",
   
